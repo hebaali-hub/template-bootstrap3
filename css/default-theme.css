@@ -1,0 +1,55 @@
+
+section.our-skills .skills-info button.btn,
+#myslide .carousel-indicators .active,
+#myslide .carousel-inner .carousel-caption,
+section.contact-us .contact-cover button.btn,
+.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus,
+.dropdown-menu .divider,
+.option-box .gear-check,
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:focus,
+ .navbar-inverse .navbar-nav>.active>a:hover,
+ section.our-team .team,
+ section.footer .copyright
+{
+    background-color:#e41b17;
+}
+section.about h1 span,
+section.about h4 span,
+.navbar-inverse .navbar-brand span,
+section.features .feat span.glyphicon,
+section.testmonials .carousel-inner .item span,
+section.footer h3,
+section.statistics .statis-cover .stats:hover *,
+section.contact-us .contact-cover i
+{
+    color:#e41b17;
+}
+#myslide .carousel-indicators li,.carousel-indicators .active,
+section.testmonials .carousel-indicators .active,
+.navbar-inverse .navbar-nav .dropdown .dropdown-menu,
+section.price_table .price_box:hover p,
+section.our-skills .skills-info h2,
+section.contact-us input[type="text"],
+section.contact-us textarea,
+section.our-clients ul.clients li:hover img,
+section.footer ul.social-list li:hover img,
+section.footer .img-thumbnail,
+.option-box .color-option
+{
+     border-color:#e41b17;
+}
+section.statistics .statis-cover,
+section.contact-us .contact-cover
+{
+      background-color:rgba(207, 0, 15, 0.3);
+}
+@media(max-width:767px){
+    h1{
+        
+    
+     color:#e41b17;
+    }
+   
+}
+
